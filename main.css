@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+.block{
+    width: 33vw;
+    height: 33vh;
+    /* border: solid black 1px; */
+}
+#contain{
+    text-align: center;
+    font-size: 1000%;
+}
